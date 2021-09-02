@@ -2,7 +2,7 @@ version: 0.2
 ##
 env:
   variables:
-    _PROJECT_NAME: "sharecar_mypage"
+    _PROJECT_NAME: "sharecar-mypage"
 #
 phases:
   install:
